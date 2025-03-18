@@ -25,6 +25,7 @@ The processor supports the following RISC-V instruction types:
 - **S-Type**: `sb, sh, sw`
 - **L-Type**: `lb, lh, lw`
 - **B-Type**: `beq, bne, blt, bge`
+- **J-Type**: `JAL, JALR`  
 
 ## Processor Components
 ### 1. **Program Counter (PC)**
